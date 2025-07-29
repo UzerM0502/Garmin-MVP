@@ -42,6 +42,7 @@ This README provides instructions to set up the project on your local machine, i
 ## Running the Main Script
 
 example command line argument
+login with garmin credentials 
 
 ```bash
 python main.py --username john.pork@outlook.com --password abc123! --start_date 2025-05-01 --end_date 2025-05-30
