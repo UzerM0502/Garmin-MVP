@@ -1,0 +1,7 @@
+langchain
+python-dotenv
+garminconnect
+pandas
+sqlite3  # (built-in with Python, no need to install separately)
+langchain-google-genai
+langchain-sqlalchemy

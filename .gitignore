@@ -2,7 +2,8 @@
 *.db
 *.sqlite
 *.sqlite3
-
+*.env
+.env
 # Python cache and environment files
 __pycache__/
 *.pyc
