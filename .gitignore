@@ -1,0 +1,32 @@
+# Ignore SQLite database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Other unnecessary files
+*.bak
+*.swp
+*.tmp
