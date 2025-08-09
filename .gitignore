@@ -31,3 +31,6 @@ env/
 *.bak
 *.swp
 *.tmp
+
+# Ignore the sql_database_agent notebook
+agents/sql_database_agent.ipynb
